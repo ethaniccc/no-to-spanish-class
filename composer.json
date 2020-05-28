@@ -1,6 +1,6 @@
 {
     "name": "ethaniccc/spanish-translate",
-    "description": "JHS189Q Spanish Story Translator",
+    "description": "School Spanish Story Translator",
     "require": {
         "statickidz/php-google-translate-free": "^1.1"
     }
