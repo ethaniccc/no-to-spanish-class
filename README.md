@@ -1,2 +1,2 @@
-# no-to-spanish-class
-Translates uncopiable stories Spanish teacher gives us
+# #NoToSpanishClass
+I'm going to be honest with you. I don't like Spanish class. I really don't. The teacher started giving us stories on a website that wouldn't let us copy and paste the story. If we went into Inspect Element, the website would say "Debugging paused", and we were all very sad kiddos. However, with this program we are no longer sad kiddos. Not only does it get the story from the website, it **translates it** using some sort of Google Translate API and gives me the idot trucking story! This teacher and website think they can outsmart me: think again noobs :D
